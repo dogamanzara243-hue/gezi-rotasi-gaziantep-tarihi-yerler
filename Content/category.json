@@ -1,0 +1,31 @@
+{
+    "title": "Gaziantep Tarihi Yerler Rehberi",
+    "description": "Gaziantep şehrindeki en öne çıkan tarihi yerler ve popüler noktalar.",
+    "category": [
+        {
+            "title": "Önemli Mekan 1 - Gaziantep",
+            "desc": "Gaziantep şehrinde mutlaka görülmesi gereken gözde konum.",
+            "link": "#"
+        },
+        {
+            "title": "Önemli Mekan 2 - Gaziantep",
+            "desc": "Tarihi, kültürel ve sosyal dokusuyla öne çıkan popüler mekan.",
+            "link": "#"
+        },
+        {
+            "title": "Önemli Mekan 3 - Gaziantep",
+            "desc": "Ziyaretçilerin rotasından eksik etmediği atmosferik nokta.",
+            "link": "#"
+        },
+        {
+            "title": "Önemli Mekan 4 - Gaziantep",
+            "desc": "Şehrin mimarisini ve ruhunu yansıtan özel bölge.",
+            "link": "#"
+        },
+        {
+            "title": "Önemli Mekan 5 - Gaziantep",
+            "desc": "Gaziantep gezisinde keşfedilmesi gereken 5. simge nokta.",
+            "link": "#"
+        }
+    ]
+}
